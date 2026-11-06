@@ -43,8 +43,8 @@
 - Types d'entreprises : Jeux Vidéo
 - Exemple d'entreprise : Ubisoft
 
-![Ubisoft](<img width="1280" height="1171" alt="Ubisoft_logo svg" src="https://github.com/user-attachments/assets/d454acf9-1d05-4566-9e84-0f76ade72021" />
-)
+![Ubisoft]<img width="1280" height="1171" alt="Ubisoft_logo svg" src="https://github.com/user-attachments/assets/700346a2-c921-4206-858f-6c8b73cf79fb" />
+
 
 (source de l'image : https://en.wikipedia.org/wiki/Ubisoft)
 
@@ -62,5 +62,4 @@
 
 ## Ma capsule
 
-![Mon interface OBS](<img width="959" height="539" alt="Capture d’écran 2026-11-06 023157" src="https://github.com/user-attachments/assets/60122db8-fa2d-43af-9062-bcf377b4e96c" />
-)
+![Mon interface OBS]<img width="959" height="539" alt="Capture d’écran 2026-11-06 023157" src="https://github.com/user-attachments/assets/473bcc6b-8eec-4322-82fc-3749747f7ceb" />
