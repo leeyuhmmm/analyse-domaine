@@ -43,28 +43,24 @@
 - Types d'entreprises : Jeux Vidéo
 - Exemple d'entreprise : Ubisoft
 
-![Ubisoft](<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="914.746" version="1.1">
-  <g fill="#000" fill-opacity="1" stroke="none">
-    <path d="M0 727.61v111.62c0 45.322 30.895 74.21 75.891 74.21 47.33 0 76.3-30.464 76.3-77.267V727.61h-40.06v106.524c0 25.52-12.852 41.346-35.813 41.346-25.164 0-36.257-18.2-36.257-39.307V727.61zM171.668 729.152v182.467h63.806c35.339 0 65.367-18.024 65.367-53.772 0-37.314-32.652-45.585-32.652-45.585s24.178-6.716 24.178-38.64c0-31.903-30.56-44.47-56.893-44.47h-63.806zm40.36 34.658h19.369c13.442 0 22.043 7.08 22.043 19.4 0 11.02-7.297 19.336-21.024 19.336h-20.387V763.81zm0 67.279h21.407c20.13 0 27.11 10.34 27.11 22.68 0 14.359-9.029 22.777-25.071 22.777h-23.445V831.09zM316.004 729.139h40.265v182.467h-40.265zM755.352 911.606h-40.265V729.139h126.401v37.717h-86.136v41.794h78.491v30.58h-78.491zM856.27 729.139v37.717h51.987v144.75h40.775v-144.75H1000v-37.717zM402.236 850.934l-31.987 23.387s11.053 40.425 66.465 40.425c36.9 0 64.053-21.534 64.053-59.392 0-61.011-85.31-48.068-85.31-79.444 0-8.257 7.343-15.551 20.895-15.551 21.744 0 30.008 21.33 30.008 21.33l31.996-22.455s-12.497-33.313-60.397-33.313c-39.365 0-60.276 25.255-60.276 51.315 0 62.175 82.826 48.68 82.826 81.31 0 11.011-8.677 19.102-22.191 19.009-26.775 0-36.082-26.621-36.082-26.621zM604.74 725.837c-47.417 0-68.552 25.739-68.552 25.739l6.116 6.116s-30.677 21.79-30.677 68.584c0 53.845 41.527 88.43 93.336 88.43 60.198 0 94.355-44.418 94.355-94.355 0-53.25-38.996-94.514-94.578-94.514zm.86 37.876c32.15 0 53.007 24.573 53.007 56.479 0 31.575-20.608 56.83-53.007 56.83-32.009 0-53.039-22.352-53.039-52.02 0-27.001 18.285-38.768 18.285-38.768l-6.626-6.626s14.099-15.895 41.38-15.895zM481.516 0c-206.798 0-296.06 184.072-296.06 184.072l26.275 18.81s-33.065 62.879-32.15 143.53c0 164.64 131.058 319.732 323.986 319.732 175.268 0 320.05-142.657 320.05-319.327C823.617 116.399 644.935 0 481.517 0zm1.794 56.168c161.571 0 286.946 130.2 286.946 281.563 0 160.455-120.68 272.042-261.307 272.042-103.498 0-196.863-78.816-196.863-186.879 0-62.414 33.174-105.928 70.348-129.119l5.44 5.903c-10.173 7.96-39.181 54.557-39.181 100.356 0 85.022 66.674 143.906 150.678 143.906 107.006 0 178.371-91.267 178.371-197.238 0-123.296-108.833-227.971-239.806-227.971-72.442 0-133.926 31.154-169.256 58.657l-5.498-4.977C309.403 101.144 389.446 56.168 483.31 56.168zm-48.21 117.95c83.58 0 165.18 55.293 185.548 133.778l-7.408 2.807c-36.571-48.294-96.496-88.317-167.26-88.317-130.212 0-198.596 118.323-188.557 217.147l-7.668 2.808s-14.382-31.734-14.382-69.364c0-108.97 89.488-198.86 199.727-198.86zm55.242 136.758c39.57 0 71.216 32.073 71.216 70.146 0 31.506-20.228 50.178-20.228 50.178l23.96 16.754s-23.759 37.301-72.257 37.301c-46.391 0-87.42-37.444-87.42-87.797 0-51.884 44.629-86.582 84.73-86.582z"/>
-  </g>
-</svg>
-![Ubisoft_logo](https://github.com/user-attachments/assets/8fb2d5d5-cfdd-4d95-ad7d-e6d14b0961b7)
+![Ubisoft](<img width="1280" height="1171" alt="Ubisoft_logo svg" src="https://github.com/user-attachments/assets/d454acf9-1d05-4566-9e84-0f76ade72021" />
 )
 
-(source de l'image : ...)
+(source de l'image : https://en.wikipedia.org/wiki/Ubisoft)
 
-- Types de produits et de services : ...
-- Étapes de production : ...
-- Type d'emploi visé : ...
-- Étapes pour obtenir cet emploi : ...
+- Types de produits et de services : Jeux vidéos
+- Étapes de production : idéalisation, préproduction, production, postproduction, opération
+- Type d'emploi visé : Compositeur de musique
+- Étapes pour obtenir cet emploi : Maitriser les outils (DAW (Fl Studio)), portfolio de mes compositions, participer aux programmes comme le Labo de musique Ubisoft, postuler et passer des tests
 
 ## Conclusion
 
-- Mon profil en une phrase : ...
-- Ce qui m'a surpris : ...
-- Ma force principale et la faiblesse à travailler : ...
-- Mon action d'ici la fin de la session : ...
+- Mon profil en une phrase : Je ne suis pas en technique. Je suis ici pour découvrir si j'aime ça, et pour l'instant l'aspect de pensée créative me rejoint beaucoup.
+- Ce qui m'a surpris : Je me suis rendu compte que beaucoup de ce que le programme offre m'intéresse peu, encore moins que je ne le pensais.
+- Ma force principale et la faiblesse à travailler : Ma créativité va me mener loin mais ma difficulté à travailler en équipe va peut être me faire reculer.
+- Mon action d'ici la fin de la session : Je compte déposer certains projets de musique de jeu que j'ai en stock sur internet et même contacter quelques développeurs indies pour travailler avec eux.
 
 ## Ma capsule
 
-![Mon interface OBS](obs.png)
+![Mon interface OBS](<img width="959" height="539" alt="Capture d’écran 2026-11-06 023157" src="https://github.com/user-attachments/assets/60122db8-fa2d-43af-9062-bcf377b4e96c" />
+)
